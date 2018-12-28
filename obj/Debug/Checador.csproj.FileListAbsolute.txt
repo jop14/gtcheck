@@ -1,0 +1,122 @@
+c:\users\acer\documents\visual studio 2015\Projects\Checador\Checador\bin\Debug\Checador.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\Checador\Checador\bin\Debug\Checador.exe
+c:\users\acer\documents\visual studio 2015\Projects\Checador\Checador\bin\Debug\Checador.pdb
+c:\users\acer\documents\visual studio 2015\Projects\Checador\Checador\obj\Debug\Checador.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\Checador\Checador\obj\Debug\Checador.Anadir_pag.resources
+c:\users\acer\documents\visual studio 2015\Projects\Checador\Checador\obj\Debug\Checador.EditarEliminar.resources
+c:\users\acer\documents\visual studio 2015\Projects\Checador\Checador\obj\Debug\Checador.inicio.resources
+c:\users\acer\documents\visual studio 2015\Projects\Checador\Checador\obj\Debug\Checador.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\Checador\Checador\obj\Debug\Checador.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\Checador\Checador\obj\Debug\Checador.exe
+c:\users\acer\documents\visual studio 2015\Projects\Checador\Checador\obj\Debug\Checador.pdb
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\bin\Debug\EntityFramework.dll
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\bin\Debug\EntityFramework.xml
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\obj\Debug\Checador.pruebas.resources
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\bin\Debug\ClosedXML.dll
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\bin\Debug\ExcelNumberFormat.dll
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\bin\Debug\FastMember.Signed.dll
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\bin\Debug\ClosedXML.xml
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\bin\Debug\ExcelNumberFormat.xml
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\obj\Debug\Checador.verificador.resources
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\obj\Debug\Checador.cambiarRuta.resources
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\obj\Debug\Checador.anadirCorreo.resources
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\obj\Debug\Checador.editarEliminarCorreo.resources
+C:\Users\acer\documents\visual studio 2015\Projects\Checador\Checador\obj\Debug\Checador.generar.resources
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Debug\Checador.exe.config
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Debug\Checador.exe
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Debug\Checador.pdb
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Debug\Checador.exe
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Debug\Checador.pdb
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Debug\ClosedXML.dll
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Debug\EntityFramework.dll
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Debug\ExcelNumberFormat.dll
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Debug\FastMember.Signed.dll
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Debug\ClosedXML.xml
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Debug\EntityFramework.xml
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Debug\ExcelNumberFormat.xml
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Debug\Checador.csprojResolveAssemblyReference.cache
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Debug\Checador.cambiarRuta.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Debug\Checador.anadirCorreo.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Debug\Checador.editarEliminarCorreo.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Debug\Checador.generar.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Debug\Checador.Anadir_pag.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Debug\Checador.EditarEliminar.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Debug\Checador.verificador.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Debug\Checador.inicio.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Debug\Checador.Properties.Resources.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Debug\Checador.pruebas.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Debug\Checador.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Checador\Checador\Checador\bin\Debug\Checador.exe.config
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.exe
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.pdb
+C:\Users\acer\Desktop\Checador\Checador\Checador\bin\Debug\Checador.exe
+C:\Users\acer\Desktop\Checador\Checador\Checador\bin\Debug\Checador.pdb
+C:\Users\acer\Desktop\Checador\Checador\Checador\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.anadirCorreo.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.editarEliminarCorreo.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.Anadir_pag.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.EditarEliminar.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.inicio.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.Properties.Resources.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.crear.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.repDiaCaidas.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.repDiaActivas.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.repPagina.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.busPag.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.repConDia.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.repDiaActCli.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.repDiaActTer.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\bin\Debug\Checador.exe.manifest
+C:\Users\acer\Desktop\Checador\Checador\Checador\bin\Debug\Checador.application
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.exe.manifest
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.application
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.enviar.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.repDiario.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.repDiaCaidasTer.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Debug\Checador.repDiaCaidasClie.resources
+C:\Users\ACER1\Desktop\Checador\bin\Debug\Checador.exe.config
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.exe
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.pdb
+C:\Users\ACER1\Desktop\Checador\bin\Debug\Checador.exe.manifest
+C:\Users\ACER1\Desktop\Checador\bin\Debug\Checador.application
+C:\Users\ACER1\Desktop\Checador\bin\Debug\Checador.exe
+C:\Users\ACER1\Desktop\Checador\bin\Debug\Checador.pdb
+C:\Users\ACER1\Desktop\Checador\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.csprojResolveAssemblyReference.cache
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.busPag.resources
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.anadirCorreo.resources
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.editarEliminarCorreo.resources
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.enviar.resources
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.crear.resources
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.inicio.resources
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.Anadir_pag.resources
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.EditarEliminar.resources
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.Properties.Resources.resources
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.repDiaActCli.resources
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.repDiaActTer.resources
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.repDiaCaidasTer.resources
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.repDiaCaidasClie.resources
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.repConDia.resources
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.repPagina.resources
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.repDiaActivas.resources
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.repDiaCaidas.resources
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.repDiario.resources
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.csproj.GenerateResource.Cache
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.exe.manifest
+C:\Users\ACER1\Desktop\Checador\obj\Debug\Checador.application

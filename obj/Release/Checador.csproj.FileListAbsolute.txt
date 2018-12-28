@@ -1,0 +1,136 @@
+C:\Users\acer\Desktop\Checador\Checador\Checador\bin\Release\Checador.exe.config
+C:\Users\acer\Desktop\Checador\Checador\Checador\bin\Release\Checador.exe.manifest
+C:\Users\acer\Desktop\Checador\Checador\Checador\bin\Release\Checador.application
+C:\Users\acer\Desktop\Checador\Checador\Checador\bin\Release\Checador.exe
+C:\Users\acer\Desktop\Checador\Checador\Checador\bin\Release\Checador.pdb
+C:\Users\acer\Desktop\Checador\Checador\Checador\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.busPag.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.anadirCorreo.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.editarEliminarCorreo.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.crear.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.inicio.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.Anadir_pag.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.EditarEliminar.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.Properties.Resources.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.repDiaActCli.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.repDiaActTer.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.repConDia.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.repPagina.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.repDiaActivas.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.repDiaCaidas.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.exe.manifest
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.application
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.exe
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.pdb
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.enviar.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.repDiaCaidasTer.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.repDiaCaidasClie.resources
+C:\Users\acer\Desktop\Checador\Checador\Checador\obj\Release\Checador.repDiario.resources
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Release\Checador.exe.config
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.exe
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.pdb
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Release\Checador.exe.manifest
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Release\Checador.application
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Release\Checador.exe
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Release\Checador.pdb
+C:\Users\ACER1\Desktop\Checador\Checador\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.csprojResolveAssemblyReference.cache
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.busPag.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.anadirCorreo.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.editarEliminarCorreo.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.enviar.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.crear.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.inicio.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.Anadir_pag.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.EditarEliminar.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.Properties.Resources.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.repDiaActCli.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.repDiaActTer.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.repDiaCaidasTer.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.repDiaCaidasClie.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.repConDia.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.repPagina.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.repDiaActivas.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.repDiaCaidas.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.repDiario.resources
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.csproj.GenerateResource.Cache
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.exe.manifest
+C:\Users\ACER1\Desktop\Checador\Checador\obj\Release\Checador.application
+C:\Users\acer\Desktop\Checador\Checador11\Checador\Checador\bin\Release\Checador.exe.config
+C:\Users\acer\Desktop\Checador\Checador11\Checador\Checador\obj\Release\Checador.exe
+C:\Users\acer\Desktop\Checador\Checador11\Checador\Checador\obj\Release\Checador.pdb
+C:\Users\acer\Desktop\Checador\Checador\Checador\Checador\bin\Release\Checador.exe.config
+C:\Users\acer\Desktop\Checador\Checador\Checador\Checador\obj\Release\Checador.exe
+C:\Users\acer\Desktop\Checador\Checador\Checador\Checador\obj\Release\Checador.pdb
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\bin\Release\Checador.exe.config
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\bin\Release\Checador.exe.manifest
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\bin\Release\Checador.application
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\bin\Release\Checador.exe
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\bin\Release\Checador.pdb
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.busPag.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.anadirCorreo.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.editarEliminarCorreo.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.enviar.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.crear.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.inicio.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.Anadir_pag.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.EditarEliminar.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.Properties.Resources.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.repDiaActCli.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.repDiaActTer.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.repConDia.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.repPagina.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.repDiaActivas.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.repDiaCaidas.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.repDiario.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.exe.manifest
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.application
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.exe
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.pdb
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.crrm.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.addGas.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.Permiso.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.crmVersion.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.repDiaCaiTer.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.repDiaCaiCli.resources
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Checador\Checador10\Checador\Checador\obj\Release\Checador.ayuda.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\bin\Release\Checador.exe.config
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.exe
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.pdb
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\bin\Release\Checador.exe.manifest
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\bin\Release\Checador.application
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\bin\Release\Checador.exe
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\bin\Release\Checador.pdb
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.csprojResolveAssemblyReference.cache
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.ayuda.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.busPag.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.anadirCorreo.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.editarEliminarCorreo.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.crmVersion.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.enviar.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.crear.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.inicio.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.addGas.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.Anadir_pag.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.EditarEliminar.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.Permiso.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.Properties.Resources.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.repDiaActCli.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.repDiaActTer.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.repConDia.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.crrm.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.repDiaCaiTer.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.repDiaCaiCli.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.repPagina.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.repDiaActivas.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.repDiaCaidas.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.repDiario.resources
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.csproj.GenerateResource.Cache
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.exe.manifest
+C:\Users\omar\Documents\3 - Respaldo\Escritorio\Checador\Checador10\Checador\Checador\obj\Release\Checador.application

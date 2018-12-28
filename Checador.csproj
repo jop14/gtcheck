@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D9C10A32-A4D8-4690-BCFB-572CA45C7F10}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Checador</RootNamespace>
+    <AssemblyName>Checador</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\acer\Desktop\publicar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>6B63E4A23B5249A08E15FEE1BCF69A3C383452C6</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Checador_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Checador.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClosedXML, Version=0.93.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ClosedXML.0.93.0\lib\net40\ClosedXML.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.7.2.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.2.7.2\lib\net40\DocumentFormat.OpenXml.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServerCompact, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.SqlServerCompact.6.2.0\lib\net45\EntityFramework.SqlServerCompact.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ExcelNumberFormat, Version=1.0.3.0, Culture=neutral, PublicKeyToken=23c6f5d73be07eca, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelNumberFormat.1.0.3\lib\net20\ExcelNumberFormat.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FastMember.Signed, Version=1.3.0.0, Culture=neutral, PublicKeyToken=9e8f22703bef9a29, processorArchitecture=MSIL">
+      <HintPath>..\packages\FastMember.Signed.1.3.0\lib\net45\FastMember.Signed.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13\lib\itextsharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlServerCe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Compact.4.0.8876.1\lib\net40\System.Data.SqlServerCe.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ayuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ayuda.Designer.cs">
+      <DependentUpon>ayuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="busPag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="busPag.Designer.cs">
+      <DependentUpon>busPag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="correo\anadirCorreo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="correo\anadirCorreo.designer.cs">
+      <DependentUpon>anadirCorreo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="correo\editarEliminarCorreo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="correo\editarEliminarCorreo.designer.cs">
+      <DependentUpon>editarEliminarCorreo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="crm\crmVersion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crm\crmVersion.Designer.cs">
+      <DependentUpon>crmVersion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enviar\enviar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enviar\enviar.Designer.cs">
+      <DependentUpon>enviar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="generar\crear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="generar\crear.designer.cs">
+      <DependentUpon>crear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="conexion.cs" />
+    <Compile Include="inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inicio.designer.cs">
+      <DependentUpon>inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pagina\addGas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pagina\addGas.Designer.cs">
+      <DependentUpon>addGas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pagina\Anadir_pag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pagina\Anadir_pag.designer.cs">
+      <DependentUpon>Anadir_pag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pagina\EditarEliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pagina\EditarEliminar.designer.cs">
+      <DependentUpon>EditarEliminar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Permiso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Permiso.Designer.cs">
+      <DependentUpon>Permiso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="reportes\repDiaActCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportes\repDiaActCli.Designer.cs">
+      <DependentUpon>repDiaActCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportes\repDiaActTer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportes\repDiaActTer.Designer.cs">
+      <DependentUpon>repDiaActTer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportes\repConDia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportes\repConDia.Designer.cs">
+      <DependentUpon>repConDia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="crm\crmCaidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crm\crmCaidas.Designer.cs">
+      <DependentUpon>crmCaidas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportes\repDiaCaiTer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportes\repDiaCaiTer.Designer.cs">
+      <DependentUpon>repDiaCaiTer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportes\repDiaCaiCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportes\repDiaCaiCli.Designer.cs">
+      <DependentUpon>repDiaCaiCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportes\repPagina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportes\repPagina.Designer.cs">
+      <DependentUpon>repPagina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportes\repDiaActivas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportes\repDiaActivas.Designer.cs">
+      <DependentUpon>repDiaActivas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportes\repDiaCaidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportes\repDiaCaidas.Designer.cs">
+      <DependentUpon>repDiaCaidas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportes\repDiario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportes\repDiario.Designer.cs">
+      <DependentUpon>repDiario.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ayuda.resx">
+      <DependentUpon>ayuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="busPag.resx">
+      <DependentUpon>busPag.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="correo\anadirCorreo.resx">
+      <DependentUpon>anadirCorreo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="correo\editarEliminarCorreo.resx">
+      <DependentUpon>editarEliminarCorreo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crm\crmVersion.resx">
+      <DependentUpon>crmVersion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enviar\enviar.resx">
+      <DependentUpon>enviar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="generar\crear.resx">
+      <DependentUpon>crear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inicio.resx">
+      <DependentUpon>inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pagina\addGas.resx">
+      <DependentUpon>addGas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pagina\Anadir_pag.resx">
+      <DependentUpon>Anadir_pag.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pagina\EditarEliminar.resx">
+      <DependentUpon>EditarEliminar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Permiso.resx">
+      <DependentUpon>Permiso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="reportes\repDiaActCli.resx">
+      <DependentUpon>repDiaActCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\repDiaActTer.resx">
+      <DependentUpon>repDiaActTer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\repConDia.resx">
+      <DependentUpon>repConDia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crm\crmCaidas.resx">
+      <DependentUpon>crmCaidas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\repDiaCaiTer.resx">
+      <DependentUpon>repDiaCaiTer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\repDiaCaiCli.resx">
+      <DependentUpon>repDiaCaiCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\repPagina.resx">
+      <DependentUpon>repPagina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\repDiaActivas.resx">
+      <DependentUpon>repDiaActivas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\repDiaCaidas.resx">
+      <DependentUpon>repDiaCaidas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\repDiario.resx">
+      <DependentUpon>repDiario.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Checador_ClaveTemporal.pfx" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\DataSources\System.Data.Entity.SqlServerCompact.SqlCeFunctions.datasource" />
+    <None Include="Properties\DataSources\System.Data.Entity.SqlServerCompact.SqlCeMigrationSqlGenerator.datasource" />
+    <None Include="Properties\DataSources\System.Data.Entity.SqlServerCompact.SqlCeProviderServices.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guardar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Recursos\AYUDA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pagCaida.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\version.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\analisis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AYUDA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gt2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logogtsoluciones.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    if not exist "$(TargetDir)x86" md "$(TargetDir)x86"
+    xcopy /s /y "$(SolutionDir)packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\x86\*.*" "$(TargetDir)x86"
+    if not exist "$(TargetDir)amd64" md "$(TargetDir)amd64"
+    xcopy /s /y "$(SolutionDir)packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\amd64\*.*" "$(TargetDir)amd64"</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
